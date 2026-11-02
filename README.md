@@ -161,26 +161,6 @@ npm run build
 
 Los archivos compilados se generan en `dist/demo/`. El proyecto está configurado para desplegarse en Netlify, que ejecuta `npx ng build` y publica el contenido de `dist/demo/browser`.
 
-## Capturas de pantalla
-
-> Esta sección está preparada para incluir capturas de pantalla del proyecto. Agrega las imágenes correspondientes aquí:
-
-| Sección | Captura |
-|---|---|
-| Inicio (Hero) | _Pendiente_ |
-| Explorar proyectos | _Pendiente_ |
-| Filtros de proyectos | _Pendiente_ |
-| Busco colaborar | _Pendiente_ |
-| Cómo funciona | _Pendiente_ |
-| Asistente IA | _Pendiente_ |
-| Beneficios | _Pendiente_ |
-| Modal de publicación | _Pendiente_ |
-| Modal de detalle de proyecto | _Pendiente_ |
-| Modal de detalle de colaborador | _Pendiente_ |
-| Vista móvil | _Pendiente_ |
-
-## Estado del proyecto
-
 ### Funcionalidades terminadas
 
 - [x] Diseño visual completo de todas las secciones
